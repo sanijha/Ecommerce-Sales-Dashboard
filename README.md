@@ -4,4 +4,4 @@ a simple e-commerce data excel analysis report
 
 ## Preview Video
 
-[▶️ Watch the recordng](./recording.mp4)
+<video src="./recording.mp4" controls></video>
