@@ -2,6 +2,7 @@
 
 a simple e-commerce data excel analysis report
 
-## Preview Video
+## Preview
 
-<video src="./recording.mp4" controls></video>
+![Demo](./demo.gif)
+
